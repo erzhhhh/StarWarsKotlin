@@ -1,4 +1,4 @@
-# StarWarsKotlin
+# Star Wars Guide
 
 A small, fun Star Wars app built in Kotlin — meant to practice networking, lists, and a bit of UI polish while geeking out over the galaxy 👽✨
 
